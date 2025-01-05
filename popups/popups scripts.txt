@@ -1,0 +1,44 @@
+	<!------------------------------------------begin here--->
+                <p>				
+                <button onclick="openPopup()">Ascending Aorta Dilatation</button>
+                <button onclick="openPopup1()">Idiopathic Progressive Polyneuropathy</button>
+                <button onclick="openPopup3()">Mitral Valve Regurgitation</button>
+                </p>
+                <p>
+                <button onclick="openPopup2()">Acute Kidney Injury</button>
+                <button onclick="openPopup4()">Peritonsillar Abscess</button>
+                <button onclick="myFunction2()">Acute postoperative pulmonary insufficiency</button>
+                </p>
+               
+                <p>
+                <button onclick="myFunction()">Medications</button>
+                <button onclick="myFunction1()">Medical Card 2024</button>
+                
+                <button onclick="myFunction3()">2024 Notes</button>
+                <button onclick="myFunction4()">Medical Card 2025</button>
+                </p>
+             
+                   <!--end of  buttons------------------------------------->
+
+
+
+mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+
+<!-- START OF SCRIPT -->
+<script>
+<!--
+
+/*
+put anything here
+*/
+
+function channel(){
+window.open("../index.html","","channelmode,scrollbars")
+}
+//-->
+</script>
+<form>
+<input type="button" onClick="channel()" value="Open new window">
+</form>
+
+<!-- END OF SCRIPT -->
